@@ -4,7 +4,7 @@
             <title>SMART HELMET</title>
             <link rel="icon" href="img/date.png">
         </head>
-        <body bg="black">
+        <body bgcolor="black">
             <center>
                 <h1>CODE CRUSADERS🪖</h1>
                 <p>Innovative Solutions for Safer Workplaces</p>
